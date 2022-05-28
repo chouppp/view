@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # can can need
+=======
+# hello-worl1
+>>>>>>> cyr
 
 ## Project setup
 ```
