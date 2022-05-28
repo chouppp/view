@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # can can need 1
 =======
 # hello-worl1
->>>>>>> cyr
+
 1231233
 ## Project setup
 ```
